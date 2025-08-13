@@ -34,7 +34,7 @@ El sorteo no funcionará si no hay nombres agregados
 //Primera vista del proyecto con codigo
 <img width="1867" height="980" alt="image" src="https://github.com/user-attachments/assets/d5a7d025-7d82-4043-8834-566eef0b7dc2" />
 
-//Video explicativo en assets
+//Video explicativo en la carpeta: video
 
 
 
