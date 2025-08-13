@@ -24,5 +24,19 @@ El proyecto está diseñado para practicar conceptos fundamentales de lógica de
 4. El resultado se muestra debajo.  
 5. Para borrar la lista y comenzar de nuevo, hacer clic en “Reiniciar lista”.
 
+-- Posibles problemas y soluciones
+Si ingresas un nombre vacío, aparecerá una alerta pidiendo un nombre válido.
+
+No se permiten nombres duplicados en la lista.
+
+El sorteo no funcionará si no hay nombres agregados
+
+//Primera vista del proyecto con codigo
+<img width="1867" height="980" alt="image" src="https://github.com/user-attachments/assets/d5a7d025-7d82-4043-8834-566eef0b7dc2" />
+
+//Video explicativo en assets
+
+
+
 ## Autor  
 Elihan
